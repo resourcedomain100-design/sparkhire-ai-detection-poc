@@ -1,0 +1,6 @@
+{
+      "name": "sparkhire/ai-detection",
+      "version": "9.9.9",
+      "autoload": { "files": ["src/Exploit.php"] },
+      "require": { "php": "^8.3" }
+    }
